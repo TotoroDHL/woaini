@@ -33,7 +33,7 @@ var config = {
         "宝贝美丽的不像话！": "./imgs/WechatIMG204.jpg",
         "今年要继续美丽继续暴富！": "./imgs/WechatIMG205.jpg",
         "要照顾好小狗！": "./imgs/WechatIMG206.jpg",
-        "我们都要出国顺利！": "./imgs/WechatIMG1207.jpg",
+        "我们都要出国顺利！": "./imgs/WechatIMG207.jpg",
         "这是第一个小惊喜！": "./imgs/WechatIMG208.jpg",
         "我爱你❤️": "./imgs/WechatIMG209.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
